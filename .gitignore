@@ -1,0 +1,17 @@
+# QuakeC build products
+progs.dat
+*.lno
+
+# Build / temp
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.log
+
+# Editor / OS cruft
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
